@@ -5,9 +5,9 @@ A computational approach to identify a single pure strategy for winning the Blot
 The code was implemented in Python 3.5.
 
 ## Requirements
-- Python >= 3.5
-- You must have Numpy library installed
+- Python 3.5
+- Numpy
 
 ## Acknowledgments
 The implementation includes three functions proposed in Wittman M D. “Solving” the Blotto Game: A Computational Approach. 
-retrieved from <http://web.mit.edu/wittman/www/Wittman_BlottoPaper.pdf>
+Retrieved from <http://web.mit.edu/wittman/www/Wittman_BlottoPaper.pdf>
